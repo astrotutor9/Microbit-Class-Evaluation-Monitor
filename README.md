@@ -13,6 +13,8 @@ The result here are two files:
 
 -One for the participants in the class. If they wish to answer in an affirmative way they hold the Microbits and either clap or shake their hands. Otherwise they hold the Microbit face down on the desk.
 
--The other file is for the questioner. After asking each question wait for all the class to respond then press the A button. The number of appaulds is recorded. Once all the questions have been asked press the B button to see the values for each response. Note them down on your record. All done. No paper, no fuss, no time wasting going through all the responses trying to read the hand writing. And no boring evaluation forms for the class to complete either.
+-The other file is for the questioner. After asking each question wait for all the class to respond then press the A button. The number of applauds is recorded. Once all the questions have been asked press the B button to see the values for each response. Note them down on your record. All done. No paper, no fuss, no time wasting going through all the responses trying to read the hand writing. And no boring evaluation forms for the class to complete either.
 
-Put file transmitter on to the Microbits for the class. The other receiver on a single one for you. Power them all up with battery packs and hand them out to the class. 
+Put file 'transmitter' on to the Microbits for the class. The other 'receiver' on a single one for you. Power them all up with battery packs and hand them out to the class. 
+
+Of course, the only downside to this is that you require a class set of Microbits.
